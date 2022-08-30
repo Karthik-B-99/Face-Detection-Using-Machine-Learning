@@ -1,0 +1,1 @@
+Face recognition system idetifies people pn face images or video frames. In a nutshell, a face recognition system extracts features from an input face image and compares them to the features of labelled faces in a database.
